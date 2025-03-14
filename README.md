@@ -1,5 +1,5 @@
 
-                                         Hi, I'm Ranuga Senadeera! 👋
+  Hi, I'm Ranuga Senadeera! 👋
                                             
 
 I am a 3rd Year Undergraduate and a passionate software developer with a strong interest in full-stack development and continuous learning. I enjoy solving complex problems and collaborating with others to create impactful software solutions.
