@@ -1,8 +1,9 @@
 
-<h1 align="center">Hi, I'm Ranuga Senadeera! 👋</h1>
+<h1 align="center">Hi,  I'm Ranuga Senadeera! 👋</h1>
                                             
 <br>
-I am a 3rd Year Undergraduate and a passionate software developer with a strong interest in full-stack development and continuous learning. I enjoy solving complex problems and collaborating with others to create impactful software solutions.
+I am a 3rd Year Undergraduate and a passionate software developer with a strong interest in full-stack development and continuous learning.
+<br>
 
 - 🌱 I’m currently learning more about machine learning.
 - 🤔 I’m looking for help with machine learning techniques.
@@ -10,7 +11,7 @@ I am a 3rd Year Undergraduate and a passionate software developer with a strong 
 - 📫 How to reach me: [Email](mailto:senadeerakrg@gmail.com)
 - 📫 More details: [LinkedIn](https://linkedin.com/in/ranugasenadeera)
 
-<br><br>
+<br>
 
 ### Languages and Tools
 
@@ -30,12 +31,11 @@ I am a 3rd Year Undergraduate and a passionate software developer with a strong 
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=sql&logoColor=white&label=)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white&label=)
 
-<br>
 
 ## Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white&label=)](https://linkedin.com/in/ranugasenadeera)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white&label=)](mailto:your-email@example.com)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white&label=)](mailto:senadeerakrg@gmail.com)
 [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook&logoColor=white&label=)](https://facebook.com/profile.php?id=61558634829047)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white&label=)](https://instagram.com/ranuga_geeneth)
 
