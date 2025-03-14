@@ -1,8 +1,8 @@
 
-<h1 align="center">#Hi,  I'm Ranuga Senadeera! 👋</h1>
+<h1 align="center">Hi,  I'm Ranuga Senadeera! 👋</h1>
                                             
 <br>
-<h3 align="center">I am a 3rd Year Undergraduate and a passionate software developer with a strong interest in full-stack development and continuous learning.<h3>
+<h3 align="center">I am a 3rd Year Undergraduate and a passionate software developer with a strong interest in full-stack development and continuous learning.</h3>
 <br><br>
 
 - 🌱 I’m currently learning more about machine learning.
@@ -31,7 +31,7 @@
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=sql&logoColor=white&label=)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white&label=)
 
-
+<br>
 
 ## Connect with Me
 
