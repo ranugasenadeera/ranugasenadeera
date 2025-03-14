@@ -3,19 +3,19 @@
                                             
 <br>
 I am a 3rd Year Undergraduate and a passionate software developer with a strong interest in full-stack development and continuous learning.
-<br>
+<br><br>
 
 - 🌱 I’m currently learning more about machine learning.
 - 🤔 I’m looking for help with machine learning techniques.
 - 💬 Ask me about web development or software engineering.
-- 📫 How to reach me: [Email](mailto:senadeerakrg@gmail.com)
-- 📫 More details: [LinkedIn](https://linkedin.com/in/ranugasenadeera)
+- 📫 How to reach me: [senadeerakrg@gmail.com](mailto:senadeerakrg@gmail.com)
+- 📫 More details: [RanugaSenadeera](https://linkedin.com/in/ranugasenadeera)
 
 <br>
 
 ### Languages and Tools
 
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white&label=)
+![](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white&label=)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black&label=)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white&label=)
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white&label=)
@@ -52,4 +52,4 @@ I am a 3rd Year Undergraduate and a passionate software developer with a strong 
 
 <br>
 
-Feel free to reach out if you want to collaborate on any project or just want to say hi!
+Feel free to reach out if you want to collaborate on any project or just want to say hi!!!
