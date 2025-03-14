@@ -1,8 +1,8 @@
 
-<h1 align="center">Hi,  I'm Ranuga Senadeera! 👋</h1>
+<h1 align="center">#Hi,  I'm Ranuga Senadeera! 👋</h1>
                                             
 <br>
-I am a 3rd Year Undergraduate and a passionate software developer with a strong interest in full-stack development and continuous learning.
+<h3 align="center">I am a 3rd Year Undergraduate and a passionate software developer with a strong interest in full-stack development and continuous learning.<h3>
 <br><br>
 
 - 🌱 I’m currently learning more about machine learning.
@@ -13,9 +13,9 @@ I am a 3rd Year Undergraduate and a passionate software developer with a strong 
 
 <br>
 
-### Languages and Tools
+## Languages and Tools
 
-![](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white&label=)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white&label=)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black&label=)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white&label=)
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white&label=)
@@ -30,6 +30,7 @@ I am a 3rd Year Undergraduate and a passionate software developer with a strong 
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white&label=)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=sql&logoColor=white&label=)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white&label=)
+
 
 
 ## Connect with Me
@@ -52,4 +53,4 @@ I am a 3rd Year Undergraduate and a passionate software developer with a strong 
 
 <br>
 
-Feel free to reach out if you want to collaborate on any project or just want to say hi!!!
+Feel free to reach out if you want to collaborate on any project or just want to say hi !!!
