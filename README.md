@@ -2,15 +2,14 @@
 <h1 align="center">Hi,  I'm Ranuga Senadeera! 👋</h1>
                                             
 <br>
-<h3 align="center">I am a 3rd Year Undergraduate and a passionate software developer with a strong interest in full-stack development and continuous learning.</h3>
+<h3 align="center">I am a 4th Year Undergraduate and a passionate software developer with a strong interest in full-stack development and continuous learning.</h3>
 <br><br>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=ranugasenadeera&label=Profile%20views&color=0e75b6&style=flat" alt="ranugasenadeera" />
 </p>
 
-- 🌱 I’m currently learning more about machine learning.
-- 🤔 I’m looking for help with machine learning techniques.
+- 🌱 I’m currently learning more about MCP(model context protocol).
 - 💬 Ask me about web development or software engineering.
 - 📫 How to reach me: [senadeerakrg@gmail.com](mailto:senadeerakrg@gmail.com)
 - 📫 More details: [RanugaSenadeera](https://linkedin.com/in/ranugasenadeera)
