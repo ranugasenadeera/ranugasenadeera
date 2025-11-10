@@ -9,7 +9,7 @@
   <img src="https://komarev.com/ghpvc/?username=ranugasenadeera&label=Profile%20views&color=0e75b6&style=flat" alt="ranugasenadeera" />
 </p>
 
-- 🌱 I’m currently learning more about MCP(model context protocol).
+- 🌱 I’m currently learning more about agentic workflows and MCP(model context protocol).
 - 💬 Ask me about web development or software engineering.
 - 📫 How to reach me: [senadeerakrg@gmail.com](mailto:senadeerakrg@gmail.com)
 - 📫 More details: [RanugaSenadeera](https://linkedin.com/in/ranugasenadeera)
