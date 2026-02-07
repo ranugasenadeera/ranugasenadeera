@@ -47,13 +47,13 @@
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ranugasenadeera&show_icons=true&theme=radical)
+![Ranuga's GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=ranugasenadeera&show_icons=true&theme=radical)
 
 
 
 ## Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ranugasenadeera&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ranugasenadeera&layout=compact&theme=radical)
 
 <br>
 
