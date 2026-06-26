@@ -1,60 +1,67 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6E40C9&height=120&section=header" />
 
-<h1 align="center">Hi,  I'm Ranuga Senadeera! 👋</h1>
-                                            
-<br>
-<h3 align="center">I am a 4th Year Undergraduate and a passionate software developer with a strong interest in full-stack development and continuous learning.</h3>
-<br><br>
+<div align="center">
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=ranugasenadeera&label=Profile%20views&color=0e75b6&style=flat" alt="ranugasenadeera" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=6E40C9&center=true&vCenter=true&width=620&lines=Hi%2C+I'm+Ranuga+Senadeera!+%F0%9F%91%8B;Full-Stack+Developer;4th+Year+Software+Engineering+Undergrad;Exploring+Agentic+Workflows+%26+MCP" alt="Typing SVG" />
 
-- 🌱 I’m currently learning more about agentic workflows and MCP(model context protocol).
-- 💬 Ask me about web development or software engineering.
-- 📫 How to reach me: [senadeerakrg@gmail.com](mailto:senadeerakrg@gmail.com)
-- 📫 More details: [RanugaSenadeera](https://linkedin.com/in/ranugasenadeera)
+<br/>
 
-<br>
+<img src="https://komarev.com/ghpvc/?username=ranugasenadeera&label=Profile%20views&color=6E40C9&style=flat" alt="profile views" />
 
-## Languages and Tools
+</div>
 
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white&label=)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black&label=)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white&label=)
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white&label=)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white&label=)
-![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat&logo=dart&logoColor=white&label=)
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white&label=)
-![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white&label=)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black&label=)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white&label=)
-![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white&label=)
-![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat&logo=dotnet&logoColor=white&label=)
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white&label=)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=sql&logoColor=white&label=)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white&label=)
+<br/>
 
-<br>
+## About Me
 
-## Connect with Me
+- Passionate software developer focused on full-stack development
+- Currently exploring **agentic workflows** and **Model Context Protocol (MCP)**
+- Open to collaborating on interesting projects — reach me at [senadeerakrg@gmail.com](mailto:senadeerakrg@gmail.com)
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white&label=)](https://linkedin.com/in/ranugasenadeera)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white&label=)](mailto:senadeerakrg@gmail.com)
-[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook&logoColor=white&label=)](https://facebook.com/profile.php?id=61558634829047)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white&label=)](https://instagram.com/ranuga_geeneth)
+<br/>
 
-<br>
+## Tech Stack
+
+<div align="center">
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=js,php,java,cs,dart,html,css&theme=dark" />
+
+**Frameworks & Platforms**
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,laravel,spring,dotnet,flutter&theme=dark" />
+
+**Databases & Tools**
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github&theme=dark" />
+
+</div>
+
+<br/>
 
 ## GitHub Stats
 
-![Ranuga's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ranugasenadeera&show_icons=true&theme=radical&count_private=true)
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ranugasenadeera&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranugasenadeera&layout=compact&theme=tokyonight&hide_border=true&count_private=true" />
+</div>
 
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=ranugasenadeera&theme=tokyonight&hide_border=true" />
+</div>
 
+<br/>
 
-## Top Languages
+## Connect
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ranugasenadeera&layout=compact&theme=radical&count_private=true)
+<div align="center">
 
-<br>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ranugasenadeera)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:senadeerakrg@gmail.com)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/profile.php?id=61558634829047)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ranuga_geeneth)
 
-Feel free to reach out if you want to collaborate on any project or just want to say hi !!!
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6E40C9&height=80&section=footer" />
