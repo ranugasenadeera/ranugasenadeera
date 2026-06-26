@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=6E40C9&center=true&vCenter=true&width=620&lines=Hi%2C+I'm+Ranuga+Senadeera!+%F0%9F%91%8B;Full-Stack+Developer;4th+Year+Software+Engineering+Undergrad;Exploring+Agentic+Workflows+%26+MCP" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6E40C9&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Ranuga+Senadeera!+%F0%9F%91%8B;Full-Stack+Developer;4th+Year+Software+Engineering+Undergrad;Exploring+Computer+Vision+%26+ML+for+the+Web" alt="Typing SVG" />
 
 <br/>
 
@@ -15,7 +15,7 @@
 ## About Me
 
 - Passionate software developer focused on full-stack development
-- Currently exploring **agentic workflows** and **Model Context Protocol (MCP)**
+- Currently exploring **computer vision** and **machine learning model deployment** in web apps
 - Open to collaborating on interesting projects — reach me at [senadeerakrg@gmail.com](mailto:senadeerakrg@gmail.com)
 
 <br/>
@@ -43,8 +43,8 @@
 ## GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ranugasenadeera&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ranugasenadeera&layout=compact&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats-pi-henna-17.vercel.app/api?username=ranugasenadeera&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats-pi-henna-17.vercel.app/api/top-langs/?username=ranugasenadeera&layout=compact&theme=tokyonight&hide_border=true&count_private=true" />
 </div>
 
 <div align="center">
