@@ -16,7 +16,7 @@
 
 - Passionate software developer focused on full-stack development
 - Currently exploring **computer vision** and **machine learning model deployment** in web apps
-- Open to collaborating on interesting projects — reach me at [senadeerakrg@gmail.com](mailto:senadeerakrg@gmail.com)
+- Open to collaborating on interesting projects - reach me at [senadeerakrg@gmail.com](mailto:senadeerakrg@gmail.com)
 
 <br/>
 
