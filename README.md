@@ -1,67 +1,56 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6E40C9&height=120&section=header" />
+# Ranuga Senadeera
 
-<div align="center">
+**Software Engineer**  |  Backend & Web Platforms
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6E40C9&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Ranuga+Senadeera!+%F0%9F%91%8B;Associate+Software+Engineer+%40+Olee+AI;Full-Stack+Developer;Next.js+%7C+TypeScript+%7C+Node.js+%7C+Express.js" alt="Typing SVG" />
+---
 
-<br/>
+## About
 
-<img src="https://komarev.com/ghpvc/?username=ranugasenadeera&label=Profile%20views&color=6E40C9&style=flat" alt="profile views" />
+I build and maintain production web applications, with a focus on backend systems,
+APIs, and data-driven features. I work mainly with TypeScript, React, Next.js,
+Node.js, Express, and PostgreSQL, and I care about maintainable code, reliable
+systems, and understanding how an application works end to end.
 
-</div>
-
-<br/>
-
-## About Me
-
-- Passionate software developer focused on full-stack development
-- Currently exploring **computer vision** and **machine learning model deployment** in web apps
-- Open to collaborating on interesting projects - reach me at [senadeerakrg@gmail.com](mailto:senadeerakrg@gmail.com)
-
-<br/>
+---
 
 ## Tech Stack
 
-<div align="center">
-
 **Languages**
+![TypeScript](https://img.shields.io/badge/TypeScript-24292f?style=flat-square)
+![JavaScript](https://img.shields.io/badge/JavaScript-24292f?style=flat-square)
+![Java](https://img.shields.io/badge/Java-24292f?style=flat-square)
+![C#](https://img.shields.io/badge/C%23-24292f?style=flat-square)
+![PHP](https://img.shields.io/badge/PHP-24292f?style=flat-square)
 
-<img src="https://skillicons.dev/icons?i=js,php,java,cs,dart,html,css&theme=dark" />
+**Frontend**
+![React](https://img.shields.io/badge/React-24292f?style=flat-square)
+![Next.js](https://img.shields.io/badge/Next.js-24292f?style=flat-square)
+![HTML](https://img.shields.io/badge/HTML-24292f?style=flat-square)
+![CSS](https://img.shields.io/badge/CSS-24292f?style=flat-square)
 
-**Frameworks & Platforms**
+**Backend**
+![Node.js](https://img.shields.io/badge/Node.js-24292f?style=flat-square)
+![Express](https://img.shields.io/badge/Express-24292f?style=flat-square)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-24292f?style=flat-square)
+![.NET](https://img.shields.io/badge/.NET-24292f?style=flat-square)
+![Laravel](https://img.shields.io/badge/Laravel-24292f?style=flat-square)
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,laravel,spring,dotnet,flutter&theme=dark" />
+**Databases**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-24292f?style=flat-square)
+![MySQL](https://img.shields.io/badge/MySQL-24292f?style=flat-square)
+![MongoDB](https://img.shields.io/badge/MongoDB-24292f?style=flat-square)
 
-**Databases & Tools**
+**Cloud & Tools**
+![Azure](https://img.shields.io/badge/Azure-24292f?style=flat-square)
+![Docker](https://img.shields.io/badge/Docker-24292f?style=flat-square)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-24292f?style=flat-square)
+![Git](https://img.shields.io/badge/Git-24292f?style=flat-square)
+![Postman](https://img.shields.io/badge/Postman-24292f?style=flat-square)
 
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github&theme=dark" />
-
-</div>
-
-<br/>
-
-## GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats-pi-henna-17.vercel.app/api?username=ranugasenadeera&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats-pi-henna-17.vercel.app/api/top-langs/?username=ranugasenadeera&layout=compact&theme=tokyonight&hide_border=true&count_private=true" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=ranugasenadeera&theme=tokyonight&hide_border=true" />
-</div>
-
-<br/>
+---
 
 ## Connect
 
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ranugasenadeera)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:senadeerakrg@gmail.com)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/profile.php?id=61558634829047)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ranuga_geeneth)
-
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=6E40C9&height=80&section=footer" />
+[![Portfolio](https://img.shields.io/badge/Portfolio-24292f?style=flat-square)](https://ranugasenadeera.me)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-24292f?style=flat-square)](https://linkedin.com/in/ranugasenadeera)
+[![Email](https://img.shields.io/badge/Email-24292f?style=flat-square)](mailto:senadeerakrg@gmail.com)
